@@ -3,8 +3,8 @@
 <!-- Tabela -->
 <div>
   <a href="https://github.com/paulovisam">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovisam&show_icons=true&theme=jolly&hide_border=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovisam&border_radius=false&show_icons=true&theme=jolly&hide_border=true"/>
+    <img align="center" height="100vh" src="https://github-readme-stats.vercel.app/api?username=paulovisam&show_icons=true&theme=jolly&hide_border=true"/>
+  <img align="center" height="100vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovisam&border_radius=false&show_icons=true&theme=jolly&hide_border=true"/>
 </div>
 
 ##
