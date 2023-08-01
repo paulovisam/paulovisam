@@ -1,4 +1,4 @@
-🚀 Desenvolvedor MQL5
+🚀 Desenvolvedor Backend | Python, MQL5
 
 <!-- Tabela -->
 <div>
