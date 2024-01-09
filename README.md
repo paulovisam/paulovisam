@@ -1,4 +1,4 @@
-🚀 Desenvolvedor Backend | Python, MQL5
+## 🚀 Desenvolvedor Backend | Python, MQL5
 
 <!-- Tabela -->
 <div>
@@ -8,12 +8,32 @@
 </div>
 
 ##
-  
+
+### TECNOLOGIAS
+
+Python | Java | JavaScript | Angular | Bootstrap 5 | HTML/CSS | FastAPI | Selenium | SQLAlchemy | PyTest | PostegreSQL | MySQL | Docker | Docker Compose | Nginx | Git | Github | CI/CD
 <!-- Linguagem de programação -> MQL5, Python, Java -->
 <div>
-  <img align="center" alt="MQL5", height="60" width="60" src="https://www.next-post.com/wp-content/uploads/2020/06/langage-mql5-300x336.png">
   <img align="center" alt="Python", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-<!--   <img align="center" alt="Java", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -->
+  <img align="center" alt="Java", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="JavaScript", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Angular", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Boostrap", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="HTML", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="FastAPI", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+  <img align="center" alt="Selenium", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="SQLAlchemy", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+  <img align="center" alt="PyTest", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg">
+  <img align="center" alt="PostegreSQL", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="MySQL", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Docker", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Nginx", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Git", height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="MQL5", height="60" width="60" src="https://www.next-post.com/wp-content/uploads/2020/06/langage-mql5-300x336.png">
+  
+  
+  
 </div>
 
 <!-- Divisão -->
