@@ -1,4 +1,4 @@
-## 🚀 Desenvolvedor Backend | Python, MQL5
+## Desenvolvedor Backend | Python, Java, Node, MQL5
 
 <!-- Tabela -->
 <div>
@@ -7,9 +7,13 @@
   <img align="center" height="200em" src="https://github-readme-stats-mu-three-31.vercel.app/api/top-langs/?username=paulovisam&border_radius=false&show_icons=true&theme=jolly&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
 </div>
 
-##
+<br/>
+💌 Entre em contato comigo: ⤵️<br/>
+<a href='mailto:paulovictorsampaio@hotmail.com'>paulovictorsampaio@hotmail.com</a>
+<br/>
 
-### TECNOLOGIAS
+### 🚀 Minhas Skills
+##
 
 Python | Java | JavaScript | Angular | Bootstrap 5 | HTML/CSS | FastAPI | Selenium | SQLAlchemy | PyTest | PostegreSQL | MySQL | Docker | Docker Compose | Nginx | Git | Github | CI/CD
 <!-- Linguagem de programação -> MQL5, Python, Java -->
@@ -44,7 +48,6 @@ Python | Java | JavaScript | Angular | Bootstrap 5 | HTML/CSS | FastAPI | Seleni
   <a href="https://t.me/Paulo_V" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <a href="mailto:paulovictorsampaio@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   <a href="https://gitlab.com/Paulo_V" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<!--   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-  <a href="" target="_blank"><img src="https://badgen.net/badge/GitHub/ /?icon=github">
-<!--   <a href=" " target="_blank"><img src="https://img.shields.io/github/followers/rafaballerini.svg?style=social&label=Follow&maxAge=2592000"> -->
+  <a href="https://www.linkedin.com/in/paulovisam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<!--   <a href="" target="_blank"><img src="https://badgen.net/badge/GitHub/ /?icon=github"> -->
 </div>
